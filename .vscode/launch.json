@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "stopOnEntry": true,
+            "stopOnEntry": false,
             "cwd": "${workspaceFolder}/bin",
             "program": "${workspaceFolder}/src/test.ts",
             "outFiles": [
